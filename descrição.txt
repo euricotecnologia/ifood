@@ -1,0 +1,17 @@
+Sistema Gestor iFood com codigo fonte no Delphi na nova API HOMOLOGADO.
+
+
+Banco de dados Firebird 3.0 / 2.5
+
+*iFood*
+*Recursos*
+Recebimento de pedidos
+Despacho de pedidos
+Agendamento de pedidos para entrega
+Agendamento de pedidos para entrega na mesa
+Entrega na mesa
+Recusar pedidos
+Pausa na loja
+Aceite automático de pedidos
+Impressão
+Detalhamento completo dos pedidos

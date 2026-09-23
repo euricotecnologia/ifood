@@ -1,0 +1,28 @@
+# Runtime credentials and authorization data
+src/pasta/IFOODConfig.ini
+*.env
+*.key
+*.pem
+
+# Delphi local state and build outputs
+*.dproj.local
+*.identcache
+*.vlb
+*.dcu
+*.exe
+*.map
+*.stat
+__history/
+Win32/
+Win64/
+
+# Logs and local databases
+*.log
+*.fdb
+*.db
+
+# Editor and operating-system files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
